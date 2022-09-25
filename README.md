@@ -33,6 +33,11 @@
 | security_delay      | Total time (minutes) of delay as a result of a security issue .                                         |
 | late_aircraft_delay | Total time (minutes) of delay flights as a result of a previous flight on the same airplane being late. |
 
+# Corr viz
+
+![](assets/corr.png)
+
+
 
 # Possible Problem Statements
 > For some of the problem statements below, there is a need to find daily data, or use this data (limited to October 1987 to April 2008)
@@ -44,3 +49,35 @@ The problem statements are from https://community.amstat.org/jointscsg-section/d
 - How does the number of people flying between different locations change over time?
 - How well does weather predict plane delays?
 - Can you detect cascading failures as delays in one airport create delays in others? Are there critical links in the system?
+
+# Installation
+
+#### Clone the repo
+
+```
+git clone https://github.com/ayushsubedi/airlines_eda`
+```
+
+#### CD into the cloned directory and create a virtualenv
+
+```
+python -m venv env
+```
+
+### Enable virtualenv
+
+```
+source env/bin/activate
+```
+
+### Install dependency packages from requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
+### Start notebook
+
+```
+jupyter-lab
+```
