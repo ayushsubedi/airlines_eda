@@ -6,7 +6,7 @@
 - [x] merge to create geographic viz
 - [x] find column definition dictionary
 - [x] identify problem statements (kind of done)
-- [ ] create sqlite db with facts and dimension tables? 
+- [x] create sqlite db with facts and dimension tables? 
 
 # [Preliminary EDA Report](https://htmlpreview.github.io/?https://github.com/ayushsubedi/airlines_eda/blob/main/profiler_reports/eda_report_sweetviz.html)
 
