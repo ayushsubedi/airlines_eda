@@ -1,0 +1,423 @@
+airport,airport_name,municipality,iso_region,iso_country,elevation_ft,latitude_deg,longitude_deg
+ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",Allentown,US-PA,US,393.0,40.652099609375,-75.44080352783203
+ABI,"Abilene, TX: Abilene Regional",Abilene,US-TX,US,1791.0,32.4113006592,-99.6819000244
+ABQ,"Albuquerque, NM: Albuquerque International Sunport",Albuquerque,US-NM,US,5355.0,35.040199,-106.609001
+ABR,"Aberdeen, SD: Aberdeen Regional",Aberdeen,US-SD,US,1302.0,45.449100494384766,-98.42179870605467
+ABY,"Albany, GA: Southwest Georgia Regional",Albany,US-GA,US,197.0,31.535499572753903,-84.19450378417969
+ACK,"Nantucket, MA: Nantucket Memorial",Nantucket,US-MA,US,47.0,41.25310135,-70.06020355
+ACT,"Waco, TX: Waco Regional",Waco,US-TX,US,516.0,31.611299514770508,-97.23049926757812
+ACV,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",Arcata/Eureka,US-CA,US,221.0,40.97809982299805,-124.10900115966795
+ACY,"Atlantic City, NJ: Atlantic City International",Atlantic City,US-NJ,US,75.0,39.45759963989258,-74.57720184326172
+ADK,"Adak Island, AK: Adak",Adak Island,US-AK,US,18.0,51.87799835205078,-176.64599609375
+ADQ,"Kodiak, AK: Kodiak Airport",Kodiak,US-AK,US,78.0,57.75,-152.4940033
+AEX,"Alexandria, LA: Alexandria International",Alexandria,US-LA,US,89.0,31.32740020751953,-92.54979705810548
+AGS,"Augusta, GA: Augusta Regional at Bush Field",Augusta,US-GA,US,144.0,33.36989974975586,-81.9645004272461
+AKN,"King Salmon, AK: King Salmon Airport",King Salmon,US-AK,US,73.0,58.67679977,-156.6490021
+ALB,"Albany, NY: Albany International",Albany,US-NY,US,285.0,42.74829864501953,-73.80169677734375
+ALO,"Waterloo, IA: Waterloo Regional",Waterloo,US-IA,US,873.0,42.55709838867188,-92.40029907226562
+ALS,"Alamosa, CO: San Luis Valley Regional/Bergman Field",Alamosa,US-CO,US,7539.0,37.434898,-105.866997
+ALW,"Walla Walla, WA: Walla Walla Regional",Walla Walla,US-WA,US,1194.0,46.09489822,-118.288002
+AMA,"Amarillo, TX: Rick Husband Amarillo International",Amarillo,US-TX,US,3607.0,35.219398,-101.706001
+ANC,"Anchorage, AK: Ted Stevens Anchorage International",Anchorage,US-AK,US,152.0,61.17440032958984,-149.99600219726562
+APF,"Naples, FL: Naples Municipal",Naples,US-FL,US,8.0,26.1525993347,-81.7752990723
+APN,"Alpena, MI: Alpena County Regional",Alpena,US-MI,US,690.0,45.0780983,-83.56030273
+ART,"Watertown, NY: Watertown International",Watertown,US-NY,US,325.0,43.99190139770508,-76.02169799804688
+ASE,"Aspen, CO: Aspen Pitkin County Sardy Field",Aspen,US-CO,US,7820.0,39.22320175,-106.8690033
+ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",Atlanta,US-GA,US,1026.0,33.63669967651367,-84.4281005859375
+ATW,"Appleton, WI: Appleton International",Appleton,US-WI,US,918.0,44.2580986023,-88.5190963745
+ATY,"Watertown, SD: Watertown Regional",Watertown,US-SD,US,1749.0,44.91400146,-97.15470123
+AUS,"Austin, TX: Austin - Bergstrom International",Austin,US-TX,US,542.0,30.194499969482425,-97.6698989868164
+AUS,"Austin, TX: Austin - Bergstrom International",,US-TX,US,,30.2987223546,-97.6997852325
+AVL,"Asheville, NC: Asheville Regional",Asheville,US-NC,US,2165.0,35.43619918823242,-82.54180145263672
+AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",Wilkes-Barre/Scranton,US-PA,US,962.0,41.3385009766,-75.72339630130001
+AZA,"Phoenix, AZ: Phoenix - Mesa Gateway",Phoenix,US-AZ,US,1382.0,33.30780029,-111.6549988
+AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",Kalamazoo,US-MI,US,874.0,42.234901428222656,-85.5521011352539
+BDL,"Hartford, CT: Bradley International",Hartford,US-CT,US,173.0,41.9388999939,-72.68319702149999
+BET,"Bethel, AK: Bethel Airport",Bethel,US-AK,US,126.0,60.77980042,-161.8379974
+BFF,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",Scottsbluff,US-NE,US,3967.0,41.87400055,-103.5960007
+BFL,"Bakersfield, CA: Meadows Field",Bakersfield,US-CA,US,510.0,35.43360138,-119.0569992
+BFM,"Mobile, AL: Mobile Downtown",Mobile,US-AL,US,26.0,30.626800537100003,-88.06809997559999
+BGM,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",Binghamton,US-NY,US,1636.0,42.20869827,-75.97979736
+BGR,"Bangor, ME: Bangor International",Bangor,US-ME,US,192.0,44.80739974975586,-68.8281021118164
+BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",Birmingham,US-AL,US,650.0,33.56290054,-86.75350189
+BIH,"Bishop, CA: Bishop Airport",Bishop,US-CA,US,4124.0,37.3731002808,-118.363998413
+BIL,"Billings, MT: Billings Logan International",Billings,US-MT,US,3652.0,45.80770111083984,-108.54299926757812
+BIS,"Bismarck/Mandan, ND: Bismarck Municipal",Bismarck,US-ND,US,1661.0,46.77270126342773,-100.74600219726562
+BJI,"Bemidji, MN: Bemidji Regional",Bemidji,US-MN,US,1391.0,47.50939941,-94.93370056
+BKG,"Branson, MO: Branson Airport",Branson,US-MO,US,1302.0,36.532082,-93.200544
+BLI,"Bellingham, WA: Bellingham International",Bellingham,US-WA,US,170.0,48.79280090332031,-122.53800201416016
+BLV,"Belleville, IL: Scott AFB/MidAmerica",Belleville,US-IL,US,459.0,38.5452,-89.835197
+BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",Bloomington/Normal,US-IL,US,871.0,40.47710037,-88.91590118
+BNA,"Nashville, TN: Nashville International",Nashville,US-TN,US,599.0,36.1245002746582,-86.6781997680664
+BOI,"Boise, ID: Boise Air Terminal",Boise,US-ID,US,2871.0,43.56439972,-116.2229996
+BOS,"Boston, MA: Logan International",Boston,US-MA,US,20.0,42.36429977,-71.00520325
+BPT,"Beaumont/Port Arthur, TX: Jack Brooks Regional",Beaumont/Port Arthur,US-TX,US,15.0,29.9507999420166,-94.02069854736328
+BQK,"Brunswick, GA: Brunswick Golden Isles",Brunswick,US-GA,US,26.0,31.2588005065918,-81.46649932861328
+BQN,"Aguadilla, PR: Rafael Hernandez",,,,,,
+BRD,"Brainerd, MN: Brainerd Lakes Regional",Brainerd,US-MN,US,1232.0,46.39830017,-94.13809967
+BRO,"Brownsville, TX: Brownsville South Padre Island International",Brownsville,US-TX,US,22.0,25.90679931640625,-97.4259033203125
+BRW,"Barrow, AK: Wiley Post/Will Rogers Memorial",Utqiaġvik,US-AK,US,44.0,71.285402,-156.766008
+BTM,"Butte, MT: Bert Mooney",Butte,US-MT,US,5550.0,45.95479965209961,-112.49700164794922
+BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",Baton Rouge,US-LA,US,70.0,30.53319931,-91.14959717
+BTV,"Burlington, VT: Burlington International",Burlington,US-VT,US,335.0,44.4719009399,-73.15329742429999
+BUF,"Buffalo, NY: Buffalo Niagara International",Buffalo,US-NY,US,728.0,42.94049835,-78.73220062
+BUR,"Burbank, CA: Bob Hope",Burbank,US-CA,US,778.0,34.20069885253906,-118.35900115966795
+BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",Baltimore,US-MD,US,146.0,39.17539978,-76.66829681
+BZN,"Bozeman, MT: Bozeman Yellowstone International",Bozeman,US-MT,US,4473.0,45.77750015,-111.1529999
+CAE,"Columbia, SC: Columbia Metropolitan",Columbia,US-SC,US,236.0,33.93880081176758,-81.11949920654297
+CAK,"Akron, OH: Akron-Canton Regional",Akron,US-OH,US,1228.0,40.91609954833984,-81.44219970703125
+CBM,"Columbus, MS: Columbus AFB",Columbus,US-MS,US,219.0,33.6437988281,-88.44380187990001
+CDB,"Cold Bay, AK: Cold Bay Airport",Cold Bay,US-AK,US,96.0,55.20610046386719,-162.72500610351562
+CDC,"Cedar City, UT: Cedar City Regional",Cedar City,US-UT,US,5622.0,37.70100021362305,-113.0989990234375
+CDV,"Cordova, AK: Merle K Mudhole Smith",Cordova,US-AK,US,54.0,60.4917984,-145.4779968
+CEC,"Crescent City, CA: Jack McNamara Field",Crescent City,US-CA,US,61.0,41.78020096,-124.2369995
+CGI,"Cape Girardeau, MO: Cape Girardeau Regional",Cape Girardeau,US-MO,US,342.0,37.22529983520508,-89.57080078125
+CHA,"Chattanooga, TN: Lovell Field",Chattanooga,US-TN,US,683.0,35.035301208496094,-85.20379638671875
+CHO,"Charlottesville, VA: Charlottesville Albemarle",Charlottesville,US-VA,US,639.0,38.13859939575195,-78.4529037475586
+CHS,"Charleston, SC: Charleston AFB/International",Charleston,US-SC,US,46.0,32.89860153,-80.04049683
+CIC,"Chico, CA: Chico Municipal",Chico,US-CA,US,240.0,39.79539871,-121.8580017
+CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",Cedar Rapids,US-IA,US,869.0,41.88470077514648,-91.71080017089844
+CIU,"Sault Ste. Marie, MI: Chippewa County International",Sault Ste Marie,US-MI,US,800.0,46.25080108642578,-84.47239685058594
+CKB,"Clarksburg/Fairmont, WV: North Central West Virginia",Clarksburg,US-WV,US,1217.0,39.2966003418,-80.2281036377
+CLD,"Carlsbad, CA: McClellan-Palomar",Carlsbad,US-CA,US,331.0,33.12829971,-117.2799988
+CLE,"Cleveland, OH: Cleveland-Hopkins International",Cleveland,US-OH,US,791.0,41.4117012024,-81.8498001099
+CLL,"College Station/Bryan, TX: Easterwood Field",College Station,US-TX,US,320.0,30.58860016,-96.36380005
+CLT,"Charlotte, NC: Charlotte Douglas International",Charlotte,US-NC,US,748.0,35.2140007019043,-80.94309997558594
+CMH,"Columbus, OH: John Glenn Columbus International",Columbus,US-OH,US,815.0,39.99800109863281,-82.89189910888672
+CMI,"Champaign/Urbana, IL: University of Illinois/Willard",Champaign/Urbana,US-IL,US,755.0,40.03919983,-88.27809906
+CMX,"Hancock/Houghton, MI: Houghton County Memorial",Hancock,US-MI,US,1095.0,47.168399810791016,-88.48909759521484
+CNY,"Moab, UT: Canyonlands Field",Moab,US-UT,US,4557.0,38.75500107,-109.7549973
+COD,"Cody, WY: Yellowstone Regional",Cody,US-WY,US,5102.0,44.520198822,-109.024002075
+COS,"Colorado Springs, CO: City of Colorado Springs Municipal",Colorado Springs,US-CO,US,6187.0,38.805801391602,-104.70099639893
+COU,"Columbia, MO: Columbia Regional",Columbia,US-MO,US,889.0,38.81809997558594,-92.21959686279295
+CPR,"Casper, WY: Casper/Natrona County International",Casper,US-WY,US,5350.0,42.90800095,-106.4639969
+CRP,"Corpus Christi, TX: Corpus Christi International",Corpus Christi,US-TX,US,44.0,27.77039909362793,-97.5011978149414
+CRW,"Charleston/Dunbar, WV: Yeager",Charleston,US-WV,US,981.0,38.37310028076172,-81.59320068359375
+CSG,"Columbus, GA: Columbus Airport",Columbus,US-GA,US,397.0,32.516300201416016,-84.93890380859375
+CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",Cincinnati,US-KY,US,896.0,39.0488014221,-84.6678009033
+CWA,"Mosinee, WI: Central Wisconsin",Mosinee,US-WI,US,1277.0,44.7775993347,-89.6668014526
+CYS,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",Cheyenne,US-WY,US,6159.0,41.15570068,-104.8119965
+DAB,"Daytona Beach, FL: Daytona Beach International",Daytona Beach,US-FL,US,34.0,29.179899,-81.058098
+DAL,"Dallas, TX: Dallas Love Field",Dallas,US-TX,US,487.0,32.847099,-96.851799
+DAY,"Dayton, OH: James M Cox/Dayton International",Dayton,US-OH,US,1009.0,39.90240097045898,-84.21939849853516
+DBQ,"Dubuque, IA: Dubuque Regional",Dubuque,US-IA,US,1077.0,42.40200043,-90.70950317
+DCA,"Washington, DC: Ronald Reagan Washington National",Washington,US-DC,US,15.0,38.8521,-77.037697
+DDC,"Dodge City, KS: Dodge City Regional",Dodge City,US-KS,US,2594.0,37.76340103149414,-99.9655990600586
+DEC,"Decatur, IL: Decatur Airport",Decatur,US-IL,US,682.0,39.834598541259766,-88.8656997680664
+DEN,"Denver, CO: Denver International",Denver,US-CO,US,5431.0,39.861698150635,-104.672996521
+DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",Dallas-Fort Worth,US-TX,US,607.0,32.89680099487305,-97.03800201416016
+DHN,"Dothan, AL: Dothan Regional",Dothan,US-AL,US,401.0,31.3213005065918,-85.44960021972656
+DIK,"Dickinson, ND: Dickinson - Theodore Roosevelt Regional",Dickinson,US-ND,US,2592.0,46.7974014282,-102.802001953
+DLG,"Dillingham, AK: Dillingham Airport",Dillingham,US-AK,US,81.0,59.04470062,-158.5050049
+DLH,"Duluth, MN: Duluth International",Duluth,US-MN,US,1428.0,46.8420982361,-92.1936035156
+DRO,"Durango, CO: Durango La Plata County",Durango,US-CO,US,6685.0,37.1515007019,-107.753997803
+DRT,"Del Rio, TX: Del Rio International",Del Rio,US-TX,US,1002.0,29.3742008209,-100.927001953
+DSM,"Des Moines, IA: Des Moines International",Des Moines,US-IA,US,958.0,41.53400039672852,-93.66310119628906
+DTW,"Detroit, MI: Detroit Metro Wayne County",Detroit,US-MI,US,645.0,42.212398529052734,-83.35340118408203
+DUT,"Unalaska, AK: Unalaska Airport",Unalaska,US-AK,US,22.0,53.900100708,-166.544006348
+DVL,"Devils Lake, ND: Devils Lake Regional",Devils Lake,US-ND,US,1456.0,48.11420059,-98.90879822
+EAR,"Kearney, NE: Kearney Regional",Kearney,US-NE,US,2131.0,40.72700119,-99.00679779
+EAT,"Wenatchee, WA: Pangborn Memorial",Wenatchee,US-WA,US,1249.0,47.3988990784,-120.207000732
+EAU,"Eau Claire, WI: Chippewa Valley Regional",Eau Claire,US-WI,US,913.0,44.86579895019531,-91.48429870605467
+ECP,"Panama City, FL: Northwest Florida Beaches International",Panama City Beach,US-FL,US,69.0,30.357106,-85.795414
+EFD,"Houston, TX: Ellington",Houston,US-TX,US,32.0,29.6072998047,-95.1587982178
+EGE,"Eagle, CO: Eagle County Regional",Eagle,US-CO,US,6548.0,39.64260101,-106.9179993
+EKO,"Elko, NV: Elko Regional",Elko,US-NV,US,5140.0,40.82490158081055,-115.79199981689452
+ELM,"Elmira/Corning, NY: Elmira/Corning Regional",Elmira/Corning,US-NY,US,954.0,42.1599006652832,-76.8916015625
+ELP,"El Paso, TX: El Paso International",El Paso,US-TX,US,3959.0,31.80719948,-106.3779984
+ENV,"Wendover, UT: Wendover Airport",Wendover,US-UT,US,4237.0,40.7187004089,-114.03099823
+ERI,"Erie, PA: Erie International/Tom Ridge Field",Erie,US-PA,US,732.0,42.0831270134,-80.1738667488
+ESC,"Escanaba, MI: Delta County",Escanaba,US-MI,US,609.0,45.7226982117,-87.0936965942
+EUG,"Eugene, OR: Mahlon Sweet Field",Eugene,US-OR,US,374.0,44.12459945678711,-123.21199798583984
+EVV,"Evansville, IN: Evansville Regional",Evansville,US-IN,US,418.0,38.0369987488,-87.5324020386
+EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",New Bern,US-NC,US,18.0,35.0730018616,-77.04290008539999
+EWR,"Newark, NJ: Newark Liberty International",Newark,US-NJ,US,18.0,40.692501068115234,-74.168701171875
+EYW,"Key West, FL: Key West International",Key West,US-FL,US,3.0,24.556100845336918,-81.75959777832031
+FAI,"Fairbanks, AK: Fairbanks International",Fairbanks,US-AK,US,439.0,64.81510162,-147.8560028
+FAR,"Fargo, ND: Hector International",Fargo,US-ND,US,902.0,46.92070007324219,-96.81580352783205
+FAT,"Fresno, CA: Fresno Yosemite International",Fresno,US-CA,US,336.0,36.77619934082031,-119.71800231933594
+FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",Fayetteville,US-NC,US,189.0,34.9911994934082,-78.88030242919922
+FCA,"Kalispell, MT: Glacier Park International",Kalispell,US-MT,US,2977.0,48.31050109863281,-114.25599670410156
+FLG,"Flagstaff, AZ: Flagstaff Pulliam",Flagstaff,US-AZ,US,7014.0,35.13850021,-111.6709976
+FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",Fort Lauderdale,US-FL,US,9.0,26.072599411010746,-80.15270233154297
+FLO,"Florence, SC: Florence Regional",Florence,US-SC,US,146.0,34.18539810180664,-79.7238998413086
+FMN,"Farmington, NM: Four Corners Regional",Farmington,US-NM,US,5506.0,36.7411994934,-108.230003357
+FNL,"Fort Collins/Loveland, CO: Northern Colorado Regional",Fort Collins/Loveland,US-CO,US,5016.0,40.4518013,-105.011001587
+FNT,"Flint, MI: Bishop International",Flint,US-MI,US,782.0,42.96540069580078,-83.74359893798828
+FOD,"Fort Dodge, IA: Fort Dodge Regional",Fort Dodge,US-IA,US,1156.0,42.55149841,-94.19259644
+FOE,"Topeka, KS: Topeka Regional",Topeka,US-KS,US,1078.0,38.9509010315,-95.6635971069
+FSD,"Sioux Falls, SD: Joe Foss Field",Sioux Falls,US-SD,US,1429.0,43.5820007324,-96.741897583
+FSM,"Fort Smith, AR: Fort Smith Regional",Fort Smith,US-AR,US,469.0,35.33660125732422,-94.36740112304688
+FWA,"Fort Wayne, IN: Fort Wayne International",Fort Wayne,US-IN,US,814.0,40.97850037,-85.19509888
+GCC,"Gillette, WY: Gillette Campbell County",Gillette,US-WY,US,4365.0,44.3488998413,-105.539001465
+GCK,"Garden City, KS: Garden City Regional",Garden City,US-KS,US,2891.0,37.9275016785,-100.723999023
+GEG,"Spokane, WA: Spokane International",Spokane,US-WA,US,2376.0,47.61989974975586,-117.53399658203124
+GFK,"Grand Forks, ND: Grand Forks International",Grand Forks,US-ND,US,845.0,47.949299,-97.176102
+GGG,"Longview, TX: East Texas Regional",Longview,US-TX,US,365.0,32.38399887084961,-94.71150207519533
+GJT,"Grand Junction, CO: Grand Junction Regional",Grand Junction,US-CO,US,4858.0,39.1223983765,-108.527000427
+GLH,"Greenville, MS: Greenville Mid Delta",Greenville,US-MS,US,131.0,33.4828987121582,-90.98560333251952
+GNV,"Gainesville, FL: Gainesville Regional",Gainesville,US-FL,US,152.0,29.6900997162,-82.2717971802
+GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",Gulfport,US-MS,US,28.0,30.40730094909668,-89.07009887695312
+GRB,"Green Bay, WI: Green Bay Austin Straubel International",Green Bay,US-WI,US,695.0,44.48509979248047,-88.12960052490234
+GRI,"Grand Island, NE: Central Nebraska Regional",Grand Island,US-NE,US,1847.0,40.96749877929688,-98.30960083007812
+GRK,"Killeen, TX: Robert Gray AAF",Fort Hood/Killeen,US-TX,US,1015.0,31.067199707,-97.8289031982
+GRR,"Grand Rapids, MI: Gerald R. Ford International",Grand Rapids,US-MI,US,794.0,42.88079834,-85.52279663
+GSO,"Greensboro/High Point, NC: Piedmont Triad International",Greensboro,US-NC,US,925.0,36.097801208496094,-79.93730163574219
+GSP,"Greer, SC: Greenville-Spartanburg International",Greenville,US-SC,US,964.0,34.8956985474,-82.2189025879
+GST,"Gustavus, AK: Gustavus Airport",Gustavus,US-AK,US,35.0,58.4253006,-135.7070007
+GTF,"Great Falls, MT: Great Falls International",Great Falls,US-MT,US,3680.0,47.48199844,-111.3710022
+GTR,"Columbus, MS: Golden Triangle Regional",Columbus/W Point/Starkville,US-MS,US,264.0,33.450298309299995,-88.5914001465
+GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",Gunnison,US-CO,US,7680.0,38.53390121,-106.9329987
+GUM,"Guam, TT: Guam International",,,,,,
+HDN,"Hayden, CO: Yampa Valley",Hayden,US-CO,US,6606.0,40.48120117,-107.2180023
+HGR,"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",Hagerstown,US-MD,US,703.0,39.707901,-77.72949982
+HHH,"Hilton Head, SC: Hilton Head Airport",Hilton Head Island,US-SC,US,19.0,32.2243995667,-80.6975021362
+HIB,"Hibbing, MN: Range Regional",Hibbing,US-MN,US,1354.0,47.38660049,-92.83899689
+HKY,"Hickory, NC: Hickory Regional",Hickory,US-NC,US,1190.0,35.74110031,-81.38950348
+HLN,"Helena, MT: Helena Regional",Helena,US-MT,US,3877.0,46.6068000793457,-111.98300170898438
+HNL,"Honolulu, HI: Daniel K Inouye International",Honolulu,US-HI,US,13.0,21.32062,-157.924228
+HOB,"Hobbs, NM: Lea County Regional",Hobbs,US-NM,US,3661.0,32.6875,-103.2170029
+HOU,"Houston, TX: William P Hobby",Houston,US-TX,US,46.0,29.64539909,-95.27890015
+HPN,"White Plains, NY: Westchester County",White Plains,US-NY,US,439.0,41.06700134277344,-73.70760345458984
+HRL,"Harlingen/San Benito, TX: Valley International",Harlingen,US-TX,US,36.0,26.228500366210938,-97.65440368652344
+HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",Huntsville,US-AL,US,629.0,34.637199401855,-86.775100708008
+HTS,"Ashland, WV: Tri-State/Milton J. Ferguson Field",Huntington,US-WV,US,828.0,38.36669922,-82.55799866
+HVN,"New Haven, CT: Tweed New Haven",New Haven,US-CT,US,12.0,41.26369858,-72.88680267
+HYA,"Hyannis, MA: Barnstable Municipal-Boardman/Polando Field",Hyannis,US-MA,US,54.0,41.66930008,-70.28040314
+HYS,"Hays, KS: Hays Regional",Hays,US-KS,US,1999.0,38.84220123,-99.27320099
+IAD,"Washington, DC: Washington Dulles International",Washington,US-DC,US,312.0,38.94449997,-77.45580292
+IAG,"Niagara Falls, NY: Niagara Falls International",Niagara Falls,US-NY,US,589.0,43.1072998046875,-78.94619750976562
+IAH,"Houston, TX: George Bush Intercontinental/Houston",Houston,US-TX,US,97.0,29.984399795532227,-95.34140014648438
+ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",Wichita,US-KS,US,1333.0,37.649898529052734,-97.43309783935548
+IDA,"Idaho Falls, ID: Idaho Falls Regional",Idaho Falls,US-ID,US,4744.0,43.514599,-112.070999
+IFP,"Bullhead City, AZ: Laughlin/Bullhead International",Bullhead City,US-AZ,US,701.0,35.15739822,-114.5599976
+ILE,"Killeen, TX: Skylark Field",Killeen,US-TX,US,848.0,31.0858001709,-97.6865005493
+ILG,"Wilmington, DE: New Castle",Wilmington,US-DE,US,80.0,39.67869949,-75.60649872
+ILM,"Wilmington, NC: Wilmington International",Wilmington,US-NC,US,32.0,34.270599365234375,-77.90260314941406
+IMT,"Iron Mountain/Kingsfd, MI: Ford",Iron Mountain / Kingsford,US-MI,US,1182.0,45.8184013367,-88.1145019531
+IND,"Indianapolis, IN: Indianapolis International",Indianapolis,US-IN,US,797.0,39.7173,-86.294403
+INL,"International Falls, MN: Falls International Einarson Field",International Falls,US-MN,US,1185.0,48.566200256347656,-93.4030990600586
+IPL,"El Centro, CA: Imperial County",Imperial,US-CA,US,-54.0,32.834201812699995,-115.57900238
+IPT,"Williamsport, PA: Williamsport Regional",Williamsport,US-PA,US,529.0,41.241798400878906,-76.92109680175781
+ISN,"Williston, ND: Sloulin Field International",Williston,US-ND,US,1982.0,48.177898407,-103.641998291
+ISO,"Kinston, NC: Kinston Regional Jetport at Stallings Field",Kinston,US-NC,US,93.0,35.331401825,-77.60880279540001
+ISP,"Islip, NY: Long Island MacArthur",Islip,US-NY,US,99.0,40.79520035,-73.10019684
+ITH,"Ithaca/Cortland, NY: Ithaca Tompkins Regional",Ithaca,US-NY,US,1099.0,42.49100112915039,-76.4583969116211
+ITO,"Hilo, HI: Hilo International",Hilo,US-HI,US,38.0,19.721399307250977,-155.04800415039062
+IYK,"Inyokern, CA: Inyokern Airport",Inyokern,US-CA,US,2457.0,35.65879822,-117.8300018
+JAC,"Jackson, WY: Jackson Hole",Jackson,US-WY,US,6451.0,43.6072998046875,-110.73799896240234
+JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",Jackson,US-MS,US,346.0,32.3111991882,-90.0758972168
+JAX,"Jacksonville, FL: Jacksonville International",Jacksonville,US-FL,US,30.0,30.49410057067871,-81.68789672851562
+JFK,"New York, NY: John F. Kennedy International",New York,US-NY,US,13.0,40.63980103,-73.77890015
+JLN,"Joplin, MO: Joplin Regional",Joplin,US-MO,US,981.0,37.151798248291016,-94.49829864501952
+JMS,"Jamestown, ND: Jamestown Regional",Jamestown,US-ND,US,1500.0,46.92969894,-98.67819977
+JNU,"Juneau, AK: Juneau International",Juneau,US-AK,US,21.0,58.35499954223633,-134.5760040283203
+JST,"Johnstown, PA: John Murtha Johnstown-Cambria County",Johnstown,US-PA,US,2284.0,40.31610107421875,-78.83390045166016
+KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",Kailua/Kona,US-HI,US,47.0,19.738800048828125,-156.04600524902344
+KTN,"Ketchikan, AK: Ketchikan International",Ketchikan,US-AK,US,89.0,55.35559845,-131.7140045
+LAN,"Lansing, MI: Capital Region International",Lansing,US-MI,US,861.0,42.77870178222656,-84.58740234375
+LAR,"Laramie, WY: Laramie Regional",Laramie,US-WY,US,7284.0,41.31209945678711,-105.6750030517578
+LAS,"Las Vegas, NV: McCarran International",Las Vegas,US-NV,US,2181.0,36.08010101,-115.1520004
+LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",Lawton,US-OK,US,1110.0,34.5676994324,-98.4166030884
+LAX,"Los Angeles, CA: Los Angeles International",Los Angeles,US-CA,US,125.0,33.94250107,-118.4079971
+LBB,"Lubbock, TX: Lubbock Preston Smith International",Lubbock,US-TX,US,3282.0,33.663601,-101.822998
+LBE,"Latrobe, PA: Arnold Palmer Regional",Latrobe,US-PA,US,1199.0,40.27590179,-79.40480042
+LBF,"North Platte, NE: North Platte Regional Airport Lee Bird Field",North Platte,US-NE,US,2777.0,41.12620163,-100.6839981
+LBL,"Liberal, KS: Liberal Mid-America Regional",Liberal,US-KS,US,2885.0,37.0442009,-100.9599991
+LCH,"Lake Charles, LA: Lake Charles Regional",Lake Charles,US-LA,US,15.0,30.126100540161133,-93.22329711914062
+LCK,"Columbus, OH: Rickenbacker International",Columbus,US-OH,US,744.0,39.813801,-82.927803
+LEX,"Lexington, KY: Blue Grass",Lexington,US-KY,US,979.0,38.0364990234375,-84.60590362548828
+LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",Lafayette,US-LA,US,42.0,30.20529938,-91.98760223
+LGA,"New York, NY: LaGuardia",New York,US-NY,US,21.0,40.77719879,-73.87259674
+LGB,"Long Beach, CA: Long Beach Airport",Long Beach,US-CA,US,60.0,33.81769943,-118.1520004
+LIH,"Lihue, HI: Lihue Airport",Lihue,US-HI,US,153.0,21.97599983215332,-159.33900451660156
+LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",Little Rock,US-AR,US,262.0,34.729400634799994,-92.2242965698
+LMT,"Klamath Falls, OR: Crater Lake Klamath Regional",Klamath Falls,US-OR,US,4095.0,42.156101,-121.733002
+LNK,"Lincoln, NE: Lincoln Airport",Lincoln,US-NE,US,1219.0,40.85100173950195,-96.75920104980467
+LNY,"Lanai, HI: Lanai Airport",Lanai City,US-HI,US,1308.0,20.785600662231445,-156.9510040283203
+LRD,"Laredo, TX: Laredo International",Laredo,US-TX,US,508.0,27.543800354003903,-99.46160125732422
+LSE,"La Crosse, WI: La Crosse Regional",La Crosse,US-WI,US,655.0,43.879002,-91.256699
+LWB,"Lewisburg, WV: Greenbrier Valley",Lewisburg,US-WV,US,2302.0,37.8582992554,-80.3994979858
+LWS,"Lewiston, ID: Lewiston Nez Perce County",Lewiston,US-ID,US,1442.0,46.3745002746582,-117.01499938964844
+LYH,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",Lynchburg,US-VA,US,938.0,37.326698303222656,-79.20040130615234
+MAF,"Midland/Odessa, TX: Midland International Air and Space Port",Midland,US-TX,US,2871.0,31.9424991607666,-102.2020034790039
+MBS,"Saginaw/Bay City/Midland, MI: MBS International",Saginaw,US-MI,US,668.0,43.532901763916016,-84.07959747314453
+MCI,"Kansas City, MO: Kansas City International",Kansas City,US-MO,US,1026.0,39.2976,-94.713898
+MCN,"Macon, GA: Middle Georgia Regional",Macon,US-GA,US,354.0,32.69279861450195,-83.64920043945312
+MCO,"Orlando, FL: Orlando International",Orlando,US-FL,US,96.0,28.429399490356445,-81.30899810791016
+MCW,"Mason City, IA: Mason City Municipal",Mason City,US-IA,US,1213.0,43.157798767100005,-93.3312988281
+MDT,"Harrisburg, PA: Harrisburg International",Harrisburg,US-PA,US,310.0,40.1935005188,-76.7633972168
+MDW,"Chicago, IL: Chicago Midway International",Chicago,US-IL,US,620.0,41.7859992980957,-87.75240325927734
+MEI,"Meridian, MS: Key Field",Meridian,US-MS,US,297.0,32.33259963989258,-88.75189971923828
+MEM,"Memphis, TN: Memphis International",Memphis,US-TN,US,341.0,35.04240036010742,-89.97669982910156
+MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",Mc Allen,US-TX,US,107.0,26.17580032,-98.23860168
+MFR,"Medford, OR: Rogue Valley International - Medford",Medford,US-OR,US,1335.0,42.37419891357422,-122.8730010986328
+MGM,"Montgomery, AL: Montgomery Regional",Montgomery,US-AL,US,221.0,32.30059814,-86.39399719
+MHK,"Manhattan/Ft. Riley, KS: Manhattan Regional",Manhattan,US-KS,US,1057.0,39.14099884033203,-96.6707992553711
+MHT,"Manchester, NH: Manchester-Boston Regional",Manchester,US-NH,US,266.0,42.93259811401367,-71.43569946289062
+MIA,"Miami, FL: Miami International",Miami,US-FL,US,8.0,25.79319953918457,-80.29060363769531
+MKC,"Kansas City, MO: Charles B. Wheeler Downtown",Kansas City,US-MO,US,759.0,39.12319946289063,-94.5927963256836
+MKE,"Milwaukee, WI: General Mitchell International",Milwaukee,US-WI,US,723.0,42.94720077514648,-87.89659881591797
+MKG,"Muskegon, MI: Muskegon County",Muskegon,US-MI,US,629.0,43.16949844,-86.23819733
+MKK,"Hoolehua, HI: Molokai",Kaunakakai,US-HI,US,454.0,21.15290069580078,-157.0959930419922
+MLB,"Melbourne, FL: Melbourne International",Melbourne,US-FL,US,33.0,28.10280036926269,-80.64530181884766
+MLI,"Moline, IL: Quad City International",Moline,US-IL,US,590.0,41.44850158691406,-90.50749969482422
+MLU,"Monroe, LA: Monroe Regional",Monroe,US-LA,US,79.0,32.51089859008789,-92.0376968383789
+MMH,"Mammoth Lakes, CA: Mammoth Lakes Airport",Mammoth Lakes,US-CA,US,7135.0,37.62409973,-118.8379974
+MOB,"Mobile, AL: Mobile Regional",Mobile,US-AL,US,219.0,30.691200256348,-88.242797851562
+MOD,"Modesto, CA: Modesto City-County-Harry Sham Field",Modesto,US-CA,US,97.0,37.62580109,-120.9540024
+MOT,"Minot, ND: Minot International",Minot,US-ND,US,1716.0,48.2593994140625,-101.27999877929688
+MQT,"Marquette, MI: Sawyer International",Marquette,US-MI,US,1221.0,46.3535995483,-87.395401001
+MRY,"Monterey, CA: Monterey Regional",Monterey,US-CA,US,257.0,36.58700180053711,-121.84300231933594
+MSN,"Madison, WI: Dane County Regional-Truax Field",Madison,US-WI,US,887.0,43.13990020751953,-89.3375015258789
+MSO,"Missoula, MT: Missoula International",Missoula,US-MT,US,3206.0,46.91630173,-114.0910034
+MSP,"Minneapolis, MN: Minneapolis-St Paul International",Minneapolis,US-MN,US,841.0,44.8819999695,-93.2218017578
+MSY,"New Orleans, LA: Louis Armstrong New Orleans International",New Orleans,US-LA,US,4.0,29.99340057373047,-90.25800323486328
+MTH,"Marathon, FL: The Florida Keys Marathon International",,,,,,
+MTJ,"Montrose/Delta, CO: Montrose Regional",Montrose,US-CO,US,5759.0,38.5097999573,-107.893997192
+MVY,"Martha's Vineyard, MA: Martha's Vineyard Airport",Martha's Vineyard,US-MA,US,67.0,41.3931007385,-70.6143035889
+MWH,"Moses Lake, WA: Grant County International",Moses Lake,US-WA,US,1189.0,47.20769882,-119.3199997
+MYR,"Myrtle Beach, SC: Myrtle Beach International",Myrtle Beach,US-SC,US,25.0,33.6796989441,-78.9282989502
+OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",Jacksonville,US-NC,US,94.0,34.8292007446,-77.61209869380001
+OAK,"Oakland, CA: Metropolitan Oakland International",Oakland,US-CA,US,9.0,37.721298,-122.221001
+OGD,"Ogden, UT: Ogden-Hinckley",Ogden,US-UT,US,4473.0,41.195899963379,-112.0120010376
+OGG,"Kahului, HI: Kahului Airport",Kahului,US-HI,US,54.0,20.8986,-156.429993
+OGS,"Ogdensburg, NY: Ogdensburg International",Ogdensburg,US-NY,US,297.0,44.6819000244,-75.46549987790002
+OKC,"Oklahoma City, OK: Will Rogers World",Oklahoma City,US-OK,US,1295.0,35.39310073852539,-97.60070037841795
+OMA,"Omaha, NE: Eppley Airfield",Omaha,US-NE,US,984.0,41.303199768066406,-95.89409637451172
+OME,"Nome, AK: Nome Airport",Nome,US-AK,US,37.0,64.51219940185547,-165.44500732421875
+ONT,"Ontario, CA: Ontario International",Ontario,US-CA,US,944.0,34.055999755859375,-117.60099792480467
+ORD,"Chicago, IL: Chicago O'Hare International",Chicago,US-IL,US,672.0,41.97859955,-87.90480042
+ORF,"Norfolk, VA: Norfolk International",Norfolk,US-VA,US,26.0,36.89459991455078,-76.20120239257812
+ORH,"Worcester, MA: Worcester Regional",Worcester,US-MA,US,1009.0,42.26729965209961,-71.87570190429688
+OTH,"North Bend/Coos Bay, OR: Southwest Oregon Regional",North Bend,US-OR,US,17.0,43.41709899902344,-124.24600219726562
+OTZ,"Kotzebue, AK: Ralph Wien Memorial",Kotzebue,US-AK,US,14.0,66.88469696,-162.598999
+OWB,"Owensboro, KY: Owensboro Daviess County Regional",Owensboro,US-KY,US,407.0,37.74010086,-87.16680145
+OXR,"Oxnard/Ventura, CA: Oxnard",Oxnard,US-CA,US,45.0,34.200801849365,-119.20700073242
+PAE,"Everett, WA: Snohomish County",Everett,US-WA,US,606.0,47.90629959,-122.2819977
+PAH,"Paducah, KY: Barkley Regional",Paducah,US-KY,US,410.0,37.06079864501953,-88.7738037109375
+PBG,"Plattsburgh, NY: Plattsburgh International",Plattsburgh,US-NY,US,234.0,44.6509017944336,-73.46810150146484
+PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",West Palm Beach,US-FL,US,19.0,26.68320083618164,-80.09559631347656
+PDX,"Portland, OR: Portland International",Portland,US-OR,US,31.0,45.58869934,-122.5979996
+PFN,"Panama City, FL: Bay County",,,,,,
+PGD,"Punta Gorda, FL: Punta Gorda Airport",Punta Gorda,US-FL,US,26.0,26.92020035,-81.9905014
+PGV,"Greenville, NC: Pitt Greenville",Greenville,US-NC,US,26.0,35.6352005,-77.38529968
+PHF,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",Newport News,US-VA,US,42.0,37.13190079,-76.49299622
+PHL,"Philadelphia, PA: Philadelphia International",Philadelphia,US-PA,US,36.0,39.87189865112305,-75.24109649658203
+PHL,"Philadelphia, PA: Philadelphia International",,US-PA,US,,0.0,0.0
+PHX,"Phoenix, AZ: Phoenix Sky Harbor International",Phoenix,US-AZ,US,1135.0,33.43429946899414,-112.01200103759766
+PIA,"Peoria, IL: General Downing - Peoria International",Peoria,US-IL,US,660.0,40.664199829100006,-89.6932983398
+PIB,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",Hattiesburg/Laurel,US-MS,US,298.0,31.467100143432617,-89.33709716796875
+PIE,"St. Petersburg, FL: St Pete Clearwater International",St Petersburg-Clearwater,US-FL,US,11.0,27.91020012,-82.68740082
+PIH,"Pocatello, ID: Pocatello Regional",Pocatello,US-ID,US,4452.0,42.9098014831543,-112.59600067138672
+PIR,"Pierre, SD: Pierre Regional",Pierre,US-SD,US,1744.0,44.38270187,-100.2860031
+PIT,"Pittsburgh, PA: Pittsburgh International",Pittsburgh,US-PA,US,1203.0,40.49150085,-80.23290253
+PLN,"Pellston, MI: Pellston Regional Airport of Emmet County",Pellston,US-MI,US,721.0,45.57089996,-84.79669952
+PMD,"Palmdale, CA: Palmdale USAF Plant 42",Palmdale,US-CA,US,2543.0,34.62939835,-118.0849991
+PNS,"Pensacola, FL: Pensacola International",Pensacola,US-FL,US,121.0,30.473400115967,-87.186599731445
+PPG,"Pago Pago, TT: Pago Pago International",,,,,,
+PRC,"Prescott, AZ: Prescott Regional Ernest A Love Field",Prescott,US-AZ,US,5045.0,34.65449905,-112.4199982
+PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",Pasco,US-WA,US,410.0,46.26470184326172,-119.11900329589844
+PSE,"Ponce, PR: Mercedita",,,,,,
+PSG,"Petersburg, AK: Petersburg James A Johnson",Petersburg,US-AK,US,111.0,56.80170059,-132.9450073
+PSM,"Portsmouth, NH: Portsmouth International at Pease",Portsmouth,US-NH,US,100.0,43.0778999329,-70.8233032227
+PSP,"Palm Springs, CA: Palm Springs International",Palm Springs,US-CA,US,477.0,33.8297004699707,-116.50700378417967
+PUB,"Pueblo, CO: Pueblo Memorial",Pueblo,US-CO,US,4726.0,38.289100646972656,-104.49700164794922
+PUW,"Pullman, WA: Pullman Moscow Regional",Pullman/Moscow,US-WA,US,2556.0,46.7439,-117.110001
+PVD,"Providence, RI: Theodore Francis Green State",Providence,US-RI,US,55.0,41.73260116577149,-71.42040252685547
+PVU,"Provo, UT: Provo Municipal",Provo,US-UT,US,4497.0,40.219200134277,-111.72299957275
+PWM,"Portland, ME: Portland International Jetport",Portland,US-ME,US,76.0,43.64619827,-70.30930328
+RAP,"Rapid City, SD: Rapid City Regional",Rapid City,US-SD,US,3204.0,44.0452995300293,-103.05699920654295
+RCA,"Rapid City, SD: Ellsworth AFB",Rapid City,US-SD,US,3276.0,44.14500046,-103.1039963
+RDD,"Redding, CA: Redding Municipal",Redding,US-CA,US,505.0,40.50899887,-122.2929993
+RDM,"Bend/Redmond, OR: Roberts Field",Redmond,US-OR,US,3080.0,44.2541008,-121.1500015
+RDU,"Raleigh/Durham, NC: Raleigh-Durham International",Raleigh/Durham,US-NC,US,435.0,35.87760162353516,-78.7874984741211
+RFD,"Rockford, IL: Chicago/Rockford International",Chicago/Rockford,US-IL,US,742.0,42.19540023803711,-89.09719848632812
+RHI,"Rhinelander, WI: Rhinelander/Oneida County",Rhinelander,US-WI,US,1624.0,45.63119888305664,-89.46749877929688
+RIC,"Richmond, VA: Richmond International",Richmond,US-VA,US,167.0,37.50519943237305,-77.3197021484375
+RIW,"Riverton/Lander, WY: Riverton Regional",Riverton,US-WY,US,5525.0,43.064201355,-108.459999084
+RKS,"Rock Springs, WY: Southwest Wyoming Regional",Rock Springs,US-WY,US,6764.0,41.59420013,-109.0650024
+RNO,"Reno, NV: Reno/Tahoe International",Reno,US-NV,US,4415.0,39.49909973144531,-119.76799774169922
+ROA,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",Roanoke,US-VA,US,1175.0,37.3255,-79.975403
+ROC,"Rochester, NY: Greater Rochester International",Rochester,US-NY,US,559.0,43.118900299072266,-77.67240142822266
+ROW,"Roswell, NM: Roswell International Air Center",Roswell,US-NM,US,3671.0,33.30160140991211,-104.53099822998048
+RST,"Rochester, MN: Rochester International",Rochester,US-MN,US,1317.0,43.90829849243164,-92.5
+RSW,"Fort Myers, FL: Southwest Florida International",Fort Myers,US-FL,US,30.0,26.53619956970215,-81.75520324707031
+SAF,"Santa Fe, NM: Santa Fe Municipal",Santa Fe,US-NM,US,6348.0,35.617099762,-106.088996887
+SAN,"San Diego, CA: San Diego International",San Diego,US-CA,US,17.0,32.7336006165,-117.190002441
+SAT,"San Antonio, TX: San Antonio International",San Antonio,US-TX,US,809.0,29.533700942993164,-98.46980285644533
+SAV,"Savannah, GA: Savannah/Hilton Head International",Savannah,US-GA,US,50.0,32.12760162,-81.20210266
+SBA,"Santa Barbara, CA: Santa Barbara Municipal",Santa Barbara,US-CA,US,13.0,34.42620087,-119.8399963
+SBN,"South Bend, IN: South Bend International",South Bend,US-IN,US,799.0,41.70869827270508,-86.31729888916016
+SBP,"San Luis Obispo, CA: San Luis County Regional",San Luis Obispo,US-CA,US,212.0,35.2368011475,-120.641998291
+SCC,"Deadhorse, AK: Deadhorse Airport",Deadhorse,US-AK,US,65.0,70.19470215,-148.4649963
+SCE,"State College, PA: University Park",State College,US-PA,US,1239.0,40.8493003845,-77.84870147710001
+SCK,"Stockton, CA: Stockton Metropolitan",Stockton,US-CA,US,33.0,37.894199371338,-121.2379989624
+SDF,"Louisville, KY: Louisville Muhammad Ali International",Louisville,US-KY,US,501.0,38.1744,-85.736
+SEA,"Seattle, WA: Seattle/Tacoma International",Seattle,US-WA,US,433.0,47.44900131225586,-122.30899810791016
+SFB,"Sanford, FL: Orlando Sanford International",Orlando,US-FL,US,55.0,28.7775993347168,-81.23750305175781
+SFO,"San Francisco, CA: San Francisco International",San Francisco,US-CA,US,13.0,37.61899948120117,-122.375
+SGF,"Springfield, MO: Springfield-Branson National",Springfield,US-MO,US,1268.0,37.24570084,-93.38860321
+SGU,"St. George, UT: St George Regional",St George,US-UT,US,2941.0,37.036389,-113.510306
+SHD,"Staunton, VA: Shenandoah Valley Regional",Staunton/Waynesboro/Harrisonburg,US-VA,US,1201.0,38.2638015747,-78.8964004517
+SHR,"Sheridan, WY: Sheridan County",Sheridan,US-WY,US,4021.0,44.76919937133789,-106.9800033569336
+SHV,"Shreveport, LA: Shreveport Regional",Shreveport,US-LA,US,258.0,32.44660186767578,-93.82559967041016
+SIT,"Sitka, AK: Sitka Rocky Gutierrez",Sitka,US-AK,US,21.0,57.04710006713867,-135.36199951171875
+SJC,"San Jose, CA: Norman Y. Mineta San Jose International",San Jose,US-CA,US,62.0,37.362598,-121.929001
+SJT,"San Angelo, TX: San Angelo Regional/Mathis Field",San Angelo,US-TX,US,1919.0,31.35770034790039,-100.49600219726562
+SJU,"San Juan, PR: Luis Munoz Marin International",,,,,,
+SKA,"Spokane, WA: Fairchild AFB",Spokane,US-WA,US,2461.0,47.6151008606,-117.65599823
+SLC,"Salt Lake City, UT: Salt Lake City International",Salt Lake City,US-UT,US,4227.0,40.78839874267578,-111.97799682617188
+SLE,"Salem, OR: McNary Field",Salem,US-OR,US,214.0,44.90950012,-123.0029984
+SLN,"Salina, KS: Salina Regional",Salina,US-KS,US,1288.0,38.79100036621094,-97.6521987915039
+SMF,"Sacramento, CA: Sacramento International",Sacramento,US-CA,US,27.0,38.69540023803711,-121.59100341796876
+SMX,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",Santa Maria,US-CA,US,261.0,34.89889908,-120.4570007
+SNA,"Santa Ana, CA: John Wayne Airport-Orange County",Santa Ana,US-CA,US,56.0,33.67570114,-117.8679962
+SOP,"Pinehurst/Southern Pines, NC: Moore County",Pinehurst/Southern Pines,US-NC,US,455.0,35.23740005,-79.3911972
+SPI,"Springfield, IL: Abraham Lincoln Capital",Springfield,US-IL,US,598.0,39.84410095,-89.67790222
+SPN,"Saipan, TT: Francisco C. Ada Saipan International",,,,,,
+SPS,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",Wichita Falls,US-TX,US,1019.0,33.9888,-98.491898
+SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",Sarasota/Bradenton,US-FL,US,30.0,27.39539909362793,-82.55439758300781
+STC,"St. Cloud, MN: St. Cloud Regional",St Cloud,US-MN,US,1031.0,45.54660034179688,-94.05989837646484
+STL,"St. Louis, MO: St Louis Lambert International",St Louis,US-MO,US,618.0,38.748697,-90.370003
+STS,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",Santa Rosa,US-CA,US,128.0,38.50899887,-122.8130035
+STT,"Charlotte Amalie, VI: Cyril E King",,,,,,
+STX,"Christiansted, VI: Henry E. Rohlsen",,,,,,
+SUN,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",Hailey,US-ID,US,5318.0,43.50439835,-114.2959976
+SUX,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",Sioux City,US-IA,US,1098.0,42.40259933,-96.38439941
+SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International",Newburgh,US-NY,US,491.0,41.50410079956055,-74.10479736328125
+SWO,"Stillwater, OK: Stillwater Regional",Stillwater,US-OK,US,1000.0,36.161201477051,-97.08570098877
+SYR,"Syracuse, NY: Syracuse Hancock International",Syracuse,US-NY,US,421.0,43.11119842529297,-76.1063003540039
+TBN,"Fort Leonard Wood, MO: Waynesville-St. Robert Regional Forney Field",Fort Leonard Wood,US-MO,US,1159.0,37.74160004,-92.14070129
+TEX,"Telluride, CO: Telluride Regional",Telluride,US-CO,US,9070.0,37.9538002,-107.9079971
+TKI,"Tokeen, AK: Tokeen Airport",Tokeen,US-AK,US,,55.9370994568,-133.32699585
+TLH,"Tallahassee, FL: Tallahassee International",Tallahassee,US-FL,US,81.0,30.396499633789062,-84.35030364990234
+TOL,"Toledo, OH: Toledo Express",Toledo,US-OH,US,683.0,41.58679962,-83.80780029
+TPA,"Tampa, FL: Tampa International",Tampa,US-FL,US,26.0,27.975500106811523,-82.533203125
+TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",Bristol/Johnson/Kingsport,US-TN,US,1519.0,36.475201,-82.407401
+TTN,"Trenton, NJ: Trenton Mercer",Trenton,US-NJ,US,213.0,40.27669906616211,-74.8134994506836
+TUL,"Tulsa, OK: Tulsa International",Tulsa,US-OK,US,677.0,36.19839859008789,-95.88809967041016
+TUP,"Tupelo, MS: Tupelo Regional",Tupelo,US-MS,US,346.0,34.26810073852539,-88.7698974609375
+TUS,"Tucson, AZ: Tucson International",Tucson,US-AZ,US,2643.0,32.1161003112793,-110.94100189208984
+TVC,"Traverse City, MI: Cherry Capital",Traverse City,US-MI,US,624.0,44.74140167236328,-85.58219909667969
+TWF,"Twin Falls, ID: Joslin Field - Magic Valley Regional",Twin Falls,US-ID,US,4154.0,42.48180008,-114.487999
+TXK,"Texarkana, AR: Texarkana Regional-Webb Field",Texarkana,US-AR,US,390.0,33.45370101928711,-93.99099731445312
+TYR,"Tyler, TX: Tyler Pounds Regional",Tyler,US-TX,US,544.0,32.35409927368164,-95.40239715576172
+TYS,"Knoxville, TN: McGhee Tyson",Knoxville,US-TN,US,981.0,35.81100082,-83.9940033
+UIN,"Quincy, IL: Quincy Regional-Baldwin Field",Quincy,US-IL,US,768.0,39.94269943,-91.19460297
+USA,"Concord, NC: Concord Padgett Regional",Concord,US-NC,US,705.0,35.387798,-80.709099
+UST,"St. Augustine, FL: Northeast Florida Regional",St Augustine,US-FL,US,10.0,29.9592,-81.339798
+UTM,"Tunica, MS: Tunica Municipal",Tunica,US-MS,US,194.0,34.680999755859,-90.346702575684
+VCT,"Victoria, TX: Victoria Regional",Victoria,US-TX,US,115.0,28.85260009765625,-96.9185028076172
+VEL,"Vernal, UT: Vernal Regional",Vernal,US-UT,US,5278.0,40.4408989,-109.5100021
+VIS,"Visalia, CA: Visalia Municipal",Visalia,US-CA,US,295.0,36.3186988831,-119.392997742
+VLD,"Valdosta, GA: Valdosta Regional",Valdosta,US-GA,US,203.0,30.78249931335449,-83.27670288085938
+VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",Valparaiso,US-FL,US,87.0,30.4832,-86.525398
+WRG,"Wrangell, AK: Wrangell Airport",Wrangell,US-AK,US,49.0,56.48429871,-132.3699951
+WYS,"West Yellowstone, MT: Yellowstone",West Yellowstone,US-MT,US,6649.0,44.68840027,-111.1179962
+XNA,"Fayetteville, AR: Northwest Arkansas Regional",Fayetteville/Springdale,US-AR,US,1287.0,36.281898,-94.306801
+XWA,"Williston, ND: Williston Basin International",,,,,,
+YAK,"Yakutat, AK: Yakutat Airport",Yakutat,US-AK,US,33.0,59.5032997131,-139.660003662
+YKM,"Yakima, WA: Yakima Air Terminal/McAllister Field",Yakima,US-WA,US,1099.0,46.56819916,-120.5439987
+YNG,"Youngstown/Warren, OH: Youngstown-Warren Regional",Youngstown/Warren,US-OH,US,1192.0,41.26070023,-80.67910004
+YUM,"Yuma, AZ: Yuma MCAS/Yuma International",Yuma,US-AZ,US,213.0,32.65660095,-114.6060028
