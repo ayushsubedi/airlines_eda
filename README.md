@@ -7,6 +7,20 @@
 - [x] find column definition dictionary
 - [x] identify problem statements (kind of done)
 - [x] create sqlite db with facts and dimension tables? 
+- [ ] feasibility of joining and getting meaning from carbon emissions dataset https://stats.oecd.org/Index.aspx?DataSetCode=AIRTRANS_CO2#
+- [ ] contribution to proposal document
+
+
+# Proposal document
+
+### Innovation (30%)
+
+### Literatures Reveiw (60%)
+
+### Plan of activities (10%)
+
+
+
 
 # [Preliminary EDA Report](https://htmlpreview.github.io/?https://github.com/ayushsubedi/airlines_eda/blob/main/profiler_reports/eda_report_sweetviz.html)
 
