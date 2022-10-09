@@ -41,6 +41,7 @@ jupyter-lab
   - There are 202687655 rows, and 109 columns
   - The size of the tabular dataset is ~ 65 GB
   - The dataset is up to date. There are in average 6 million data points for each year starting from 1988 all the way to 2021. 
+  - [Full list of columns](https://github.com/ayushsubedi/airlines_eda/blob/main/assets/ontime_table.md)
 
 ## Some **non-trivial** analysis/computation/algorithms performed on the dataset
 
