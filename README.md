@@ -1,13 +1,6 @@
 # Airlines dataset EDA
 
-- [x] create priliminary dataset (2003-2022)
-- [x] use a profiler for EDA
-- [x] find Airports dataset (draft)
-- [x] merge to create geographic viz
-- [x] find column definition dictionary
-- [x] identify problem statements (kind of done)
-- [x] create sqlite db with facts and dimension tables? 
-- [x] (not doing) feasibility of joining and getting meaning from carbon emissions dataset https://stats.oecd.org/Index.aspx?DataSetCode=AIRTRANS_CO2#
+- [x] find a large dataset
 - [x] contribution to proposal document
 
 # Proposal document
