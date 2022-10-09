@@ -62,6 +62,7 @@ jupyter-lab
  - What are the most prominent features for prediction models?
 - Supervised Learning (Regression and Classification)
 - Time series analysis
+- Can you detect cascading failures as delays in one airport create delays in others? Are there critical links in the system?
 
 ## an **interactive** user interface that interacts with the algorithm
 - Web based user interface
@@ -97,13 +98,4 @@ jupyter-lab
 ### Literatures Reveiw (60%)
 
 ### Plan of activities (10%)
-
-
-# Possible Problem Statements
-
-The problem statements are from https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
-
-
-- How well does weather predict plane delays?
-- Can you detect cascading failures as delays in one airport create delays in others? Are there critical links in the system?
 
