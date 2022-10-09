@@ -38,16 +38,32 @@ jupyter-lab
 ### Proposal requirements
 ## At least one **large, real dataset**
   - The source of the dataset [databend.rs](https://databend.rs/doc/learn/analyze-ontime-with-databend-on-ec2-and-s3) and it is compiled using data provided by Research and Innovative Technology Administration (RITA), Bureau of Transportation Statistics.
-  - There are 202687655 rows, and 109 columns
+  - There are 202 million rows, and 109 columns
   - The size of the tabular dataset is ~ 65 GB
-  - The dataset is up to date. There are in average 6 million data points for each year starting from 1988 all the way to 2021. 
+  - The dataset is up to date. There are in average ~ 6 million data points for each year starting from 1988 all the way to 2021. 
   - [Full list of columns](https://github.com/ayushsubedi/airlines_eda/blob/main/assets/ontime_table.md)
 
 ## Some **non-trivial** analysis/computation/algorithms performed on the dataset
+- Exploratory Data Analysis and Visualization
+- Outlier detection (Covid?)
+- PCA 
+- Feature Selection
+- Supervised Learning (Regression and Classification)
 
 ## an **interactive** user interface that interacts with the algorithm
 
-## should describe what you plan to do (the problem to address), why you want to do it, how you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.), how your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
+
+## The problem to address
+
+## Why you want to do it 
+
+## How you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.)
+- Pyspark, Python data science stack (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Plotly 
+- Flask/Streamlit for inputs and interactivity with algorithm
+- Tableau for reporting and EDA (embedded within Flask/Streamlit)
+- Heroku for deployment 
+
+## How your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
 
 ### 9 Heilmeier questions
 - What are you trying to do? Articulate your objectives using absolutely no jargon.
