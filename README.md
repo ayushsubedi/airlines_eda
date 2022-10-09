@@ -51,16 +51,19 @@ jupyter-lab
 - Supervised Learning (Regression and Classification)
 
 ## an **interactive** user interface that interacts with the algorithm
-
+- Web based user interface
 
 ## The problem to address
+- Airlines delay
 
 ## Why you want to do it 
+-
 
 ## How you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.)
 - Pyspark, Python data science stack (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Plotly 
+- SQLite as the db
 - Flask/Streamlit for inputs and interactivity with algorithm
-- Tableau for reporting and EDA (embedded within Flask/Streamlit)
+- Tableau for EDA reporting (embedded within Flask/Streamlit)
 - Heroku for deployment 
 
 ## How your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
