@@ -7,8 +7,8 @@
 - [x] find column definition dictionary
 - [x] identify problem statements (kind of done)
 - [x] create sqlite db with facts and dimension tables? 
-- [ ] feasibility of joining and getting meaning from carbon emissions dataset https://stats.oecd.org/Index.aspx?DataSetCode=AIRTRANS_CO2#
-- [ ] contribution to proposal document
+- [x] (not doing) feasibility of joining and getting meaning from carbon emissions dataset https://stats.oecd.org/Index.aspx?DataSetCode=AIRTRANS_CO2#
+- [x] contribution to proposal document
 
 # Proposal document
 
