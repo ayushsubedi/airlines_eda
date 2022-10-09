@@ -45,10 +45,23 @@ jupyter-lab
 
 ## Some **non-trivial** analysis/computation/algorithms performed on the dataset
 - Exploratory Data Analysis and Visualization
-- Outlier detection (Covid?)
+  - When is the best time of day/day of week/time of year to fly to minimise delays?
+  - Do older planes suffer more delays?
+  - How does the number of people flying between different locations change over time?
+  - Does delay in destination airport cascade to delays in origin airport and vice versa? 
+  - What reason for delay (security checks, weather etc.) result in the most delays?
+  - What large US airport is the worst offender?
+  - Are delays more prominent during holiday season?
+- Outlier detection
+  - What are the different outliers in the dataset?
+  - is covid an outlier?
 - PCA 
+ - Dimensionality reduction 
+ - Multiple correspondence analysis
 - Feature Selection
+ - What are the most prominent features for prediction models?
 - Supervised Learning (Regression and Classification)
+- Time series analysis
 
 ## an **interactive** user interface that interacts with the algorithm
 - Web based user interface
@@ -90,9 +103,7 @@ jupyter-lab
 
 The problem statements are from https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
 
-- When is the best time of day/day of week/time of year to fly to minimise delays?
-- Do older planes suffer more delays?
-- How does the number of people flying between different locations change over time?
+
 - How well does weather predict plane delays?
 - Can you detect cascading failures as delays in one airport create delays in others? Are there critical links in the system?
 
