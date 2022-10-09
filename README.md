@@ -10,8 +10,12 @@
 - [ ] feasibility of joining and getting meaning from carbon emissions dataset https://stats.oecd.org/Index.aspx?DataSetCode=AIRTRANS_CO2#
 - [ ] contribution to proposal document
 
-
 # Proposal document
+
+### Proposal requirement
+- At least one **large, real dataset**
+- Some non-trivial analysis/computation/algorithms performed on the dataset
+- an interactive user interface that interacts with the algorithm
 
 ### Innovation (30%)
 
