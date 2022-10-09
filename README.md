@@ -44,6 +44,7 @@ jupyter-lab
   - [Full list of columns](https://github.com/ayushsubedi/airlines_eda/blob/main/assets/ontime_table.md)
 
 ## Some **non-trivial** analysis/computation/algorithms performed on the dataset
+*depth vs width*
 - Exploratory Data Analysis and Visualization
   - When is the best time of day/day of week/time of year to fly to minimise delays?
   - Do older planes suffer more delays?
@@ -63,19 +64,21 @@ jupyter-lab
 - Supervised Learning (Regression and Classification)
 - Time series analysis
 - Can you detect cascading failures as delays in one airport create delays in others? Are there critical links in the system?
+- ...
 
 ## an **interactive** user interface that interacts with the algorithm
 - Web based user interface
 
 ## The problem to address
-- Airlines delay
+- Airlines delay prediction  ...
 
 ## Why you want to do it 
--
+- ...
 
 ## How you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.)
-- Pyspark, Python data science stack (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Plotly 
-- SQLite as the db
+** rough note ** 
+- Pyspark, Python data science stack (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn), Plotly, Prophet 
+- SQLite as the db?
 - Flask/Streamlit for inputs and interactivity with algorithm
 - Tableau for EDA reporting (embedded within Flask/Streamlit)
 - Heroku for deployment 
