@@ -7,11 +7,27 @@
 - [x] find column definition dictionary
 - [x] identify problem statements (kind of done)
 - [x] create sqlite db with facts and dimension tables? 
-- [ ] feasibility of joining and getting meaning from carbon emissions dataset https://stats.oecd.org/Index.aspx?DataSetCode=AIRTRANS_CO2#
-- [ ] contribution to proposal document
-
+- [x] (not doing) feasibility of joining and getting meaning from carbon emissions dataset https://stats.oecd.org/Index.aspx?DataSetCode=AIRTRANS_CO2#
+- [x] contribution to proposal document
 
 # Proposal document
+
+### Proposal requirement
+- At least one **large, real dataset**
+- Some **non-trivial** analysis/computation/algorithms performed on the dataset
+- an **interactive** user interface that interacts with the algorithm
+- should describe what you plan to do (the problem to address), why you want to do it, how you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.), how your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
+
+### 9 Heilmeier questions
+- What are you trying to do? Articulate your objectives using absolutely no jargon.
+- How is it done today; what are the limits of current practice?
+- What's new in your approach? Why will it be successful?
+- Who cares?
+- If you're successful, what difference and impact will it make, and how do you measure them (e.g., via user studies, experiments, ground truth data, etc.)?
+- What are the risks and payoffs?
+- How much will it cost?
+- How long will it take?
+- What are the midterm and final "exams" to check for success? How will progress be measured?
 
 ### Innovation (30%)
 
@@ -19,39 +35,6 @@
 
 ### Plan of activities (10%)
 
-
-
-
-# [Preliminary EDA Report](https://htmlpreview.github.io/?https://github.com/ayushsubedi/airlines_eda/blob/main/profiler_reports/eda_report_sweetviz.html)
-
-# Data Definition
-| **Column **         | **Description**                                                                                         |
-|---------------------|---------------------------------------------------------------------------------------------------------|
-| year                | Year data collected                                                                                     |
-| month               | Numeric representation of the month                                                                     |
-| carrier             | Carrier's IATA Code                                                                                     |
-| carrier_name        | Carrier Name.                                                                                           |
-| airport             | Airport code.                                                                                           |
-| airport_name        | Name of airport.                                                                                        |
-| arr_flights         | Number of flights arriving at airport                                                                   |
-| arr_del15           | Number of flights more than 15 minutes late                                                             |
-| carrier_ct          | Number of flights delayed due to air carrier. (e.g. no crew)                                            |
-| weather_ct          | Number of flights due to weather.                                                                       |
-| nas_ct              | Number of flights delayed due to National Aviation System (e.g. heavy air traffic).                     |
-| security_ct         | Number of flights canceled due to a security breach.                                                    |
-| late_aircraft_ct    | Number of flights delayed as a result of another flight on the same aircraft delayed                    |
-| arr_cancelled       | Number of cancelled flights                                                                             |
-| arr_diverted        | Number of flights that were diverted                                                                    |
-| arr_delay           | Total time (minutes) of delayed flight.                                                                 |
-| carrier_delay       | Total time (minutes) of delay due to air carrier                                                        |
-| weather_delay       | Total time (minutes) of delay due to inclement weather.                                                 |
-| nas_delay           | Total time (minutes) of delay due to National Aviation System.                                          |
-| security_delay      | Total time (minutes) of delay as a result of a security issue .                                         |
-| late_aircraft_delay | Total time (minutes) of delay flights as a result of a previous flight on the same airplane being late. |
-
-# Corr viz
-
-![](assets/corr.png)
 
 
 
