@@ -16,6 +16,7 @@
 - At least one **large, real dataset**
 - Some **non-trivial** analysis/computation/algorithms performed on the dataset
 - an **interactive** user interface that interacts with the algorithm
+- should describe what you plan to do (the problem to address), why you want to do it, how you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.), how your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
 
 ### 9 Heilmeier questions
 - What are you trying to do? Articulate your objectives using absolutely no jargon.
