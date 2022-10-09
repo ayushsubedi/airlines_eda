@@ -36,10 +36,17 @@ jupyter-lab
 # Proposal
 
 ### Proposal requirements
-- At least one **large, real dataset**
-- Some **non-trivial** analysis/computation/algorithms performed on the dataset
-- an **interactive** user interface that interacts with the algorithm
-- should describe what you plan to do (the problem to address), why you want to do it, how you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.), how your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
+## At least one **large, real dataset**
+  - The source of the dataset [databend.rs](https://databend.rs/doc/learn/analyze-ontime-with-databend-on-ec2-and-s3) and it is compiled using data provided by Research and Innovative Technology Administration (RITA), Bureau of Transportation Statistics.
+  - There are 202687655 rows, and 109 columns
+  - The size of the tabular dataset is ~ 65 GB
+  - The dataset is up to date. There are in average 6 million data points for each year starting from 1988 all the way to 2021. 
+
+## Some **non-trivial** analysis/computation/algorithms performed on the dataset
+
+## an **interactive** user interface that interacts with the algorithm
+
+## should describe what you plan to do (the problem to address), why you want to do it, how you will do it (what tools? e.g., SQLite, PostgreSQL, Hadoop, Kinect, iPad, etc.), how your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
 
 ### 9 Heilmeier questions
 - What are you trying to do? Articulate your objectives using absolutely no jargon.
