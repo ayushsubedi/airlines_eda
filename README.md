@@ -116,4 +116,9 @@ jupyter-lab
 - [ ] make sure these are covered
   - [ ] Innovation (30%)
   - [ ] Literatures Reveiw (60%)
+    - [ ] A Data Mining Approach to Flight Arrival Delay Prediction for American Airlines https://ieeexplore.ieee.org/abstract/document/8876970 (Ayush) 
+    - [ ] Estimating Flight Departure Delay Distributions-A Statistical Approach with Long-Term Trend and Short-Term Pattern https://www.jstor.org/stable/27640024 
+    - [ ] Flight delay prediction from spatial and temporal perspective https://www.sciencedirect.com/science/article/abs/pii/S0957417422009642 (Ayush) 
   - [ ] Plan of activities (10%)
+  
+  
