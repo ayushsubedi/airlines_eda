@@ -83,22 +83,37 @@ jupyter-lab
 - Tableau for EDA reporting (embedded within Flask/Streamlit)
 - Heroku for deployment 
 
-## How your approach is better than the state of the art, why it may succeed, and when it does, what differences will it make, how you will measure success, how long it's gonna take, etc.
 
-### 9 Heilmeier questions
-- What are you trying to do? Articulate your objectives using absolutely no jargon.
-- How is it done today; what are the limits of current practice?
-- What's new in your approach? Why will it be successful?
-- Who cares?
-- If you're successful, what difference and impact will it make, and how do you measure them (e.g., via user studies, experiments, ground truth data, etc.)?
-- What are the risks and payoffs?
-- How much will it cost?
-- How long will it take?
-- What are the midterm and final "exams" to check for success? How will progress be measured?
 
-### Innovation (30%)
 
-### Literatures Reveiw (60%)
 
-### Plan of activities (10%)
-
+### Tentative Checklist
+- [x] identify the appropriate problem domain (aviation)
+- [x] find a large dataset based on project specification
+- [ ] get familiar with the dataset
+- [ ] read 12 academic papers on the topic, and for each paper, 
+  - [ ] describe the main idea
+  - [ ] why it will be useful for the project 
+  - [ ] its shortcoming, 
+  - [ ] and what are you trying to improve
+  - [ ] decide as a group on citation style
+- [ ] understand the present SOTA and how it can be improved, or what is novel about our approach 
+- [ ] Answer the Heilmeier questions
+  - [ ] **What are you trying to do? Articulate your objectives using absolutely no jargon.**
+  - [ ] **How is it done today; what are the limits of current practice?**
+  - [ ] **What's new in your approach? Why will it be successful?**
+  - [ ] **Who cares?**
+  - [ ] **If you're successful, what difference and impact will it make, and how do you measure them (e.g., via user studies, experiments, ground truth data, etc.)?**
+  - [ ] **What are the risks and payoffs?**
+  - [ ] **How much will it cost?**
+  - [ ] **How long will it take?**
+  - [ ] **What are the midterm and final "exams" to check for success? How will progress be measured?**
+- [ ] cite your references in your literature survey
+- [ ] Using either a Gantt chart (example) or a table, describe the activities each member has done and will do; and each activity’s start and end time (or start time and duration).
+- [ ] Provide a statement that summarizes the distribution of team members’ effort. The summary statement can be as simple as "all team members have contributed a similar amount of effort"
+  - [ ] Place this statement immediately after the Gantt chart (or table)
+- [ ] rename the file teamXXXproposal.pdf before submission
+- [ ] make sure these are covered
+  - [ ] Innovation (30%)
+  - [ ] Literatures Reveiw (60%)
+  - [ ] Plan of activities (10%)
