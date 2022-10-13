@@ -89,9 +89,9 @@ jupyter-lab
 
 ### Tentative Checklist
 - [ ] add sources/references in introduction paragraph
-- [ ] update title to include predictive components
-- [ ] update the third paragraph of introduction, (how to mitigate these delays -> explore cascadine effects/something else)
-- [ ] in methodology, add information regarding the dataset, and the tools we plan to use
+- [x] update title to include predictive components
+- [x] update the third paragraph of introduction, (how to mitigate these delays -> explore cascadine effects/something else)
+- [x] in methodology, add information regarding the dataset, and the tools we plan to use
 - [ ] in methodology, "predicting cost saved" to something else probably 
 - [ ] Place the contribution statement immediately after the Gantt chart (or table)
 - [ ] **If you're successful, what difference and impact will it make, and how do you measure them (e.g., via user studies, experiments, ground truth data, etc.)?**
