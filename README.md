@@ -92,12 +92,12 @@ jupyter-lab
 - [x] update title to include predictive components
 - [x] update the third paragraph of introduction, (how to mitigate these delays -> explore cascadine effects/something else)
 - [x] in methodology, add information regarding the dataset, and the tools we plan to use
-- [ ] in methodology, "predicting cost saved" to something else probably 
-- [ ] Place the contribution statement immediately after the Gantt chart (or table)
-- [ ] **If you're successful, what difference and impact will it make, and how do you measure them (e.g., via user studies, experiments, ground truth data, etc.)?**
-- [ ] if you think a question is not very relevant, briefly explain why (might need to explain why cost is not relevant to us)
-- [ ] Literature review pops out (which is good), but need to pop out innovation?
-- [ ]
+- [x] in methodology, "predicting cost saved" to something else probably 
+- [x] Place the contribution statement immediately after the Gantt chart (or table)
+- [x] **If you're successful, what difference and impact will it make, and how do you measure them (e.g., via user studies, experiments, ground truth data, etc.)?**
+- [x] if you think a question is not very relevant, briefly explain why (might need to explain why cost is not relevant to us)
+- [x] Literature review pops out (which is good), but need to pop out innovation?
+- [ ] Add Citations in the correct format.
 - [ ]
 
 
